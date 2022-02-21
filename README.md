@@ -1,2 +1,2 @@
 # Images
-This repository contains image files for diagram description of some projects in other repositories.
+This repository contains image files for diagram description of projects in other  RL-Projects repository.
